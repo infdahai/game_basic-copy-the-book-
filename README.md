@@ -1,1 +1,6 @@
-# game_basic-copy-the-book-
+####game_basic-copy-the-book-
+
+**代码仅为根据书的代码，大部分代码均为书上所实现**
+
+
+~~上传希望日后会更新~~
